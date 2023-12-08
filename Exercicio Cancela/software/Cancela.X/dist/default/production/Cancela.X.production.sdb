@@ -1,0 +1,128 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F877A ]
+[d frameptr 0 ]
+"10 D:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 D:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 D:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"35 D:\OneDrive - UFSC\Academico\UFSC\Aulas\6 - MpMc\Exercicio Cancela\software\Cancela.X\main.c
+[v _rotateMotor rotateMotor `(v  1 e 1 0 ]
+[v i1_rotateMotor rotateMotor `(v  1 e 1 0 ]
+"45
+[v _stopMotor stopMotor `(v  1 e 1 0 ]
+[v i1_stopMotor stopMotor `(v  1 e 1 0 ]
+"54
+[v _tremInterruption tremInterruption `II(v  1 e 1 0 ]
+"67
+[v _main main `(v  1 e 1 0 ]
+"216 D:/Program Files (x86)/Microchip/MPLABX/v5.35/packs/Microchip/PIC16Fxxx_DFP/1.2.33/xc8\pic\include\proc\pic16f877a.h
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"278
+[v _PORTC PORTC `VEuc  1 e 1 @7 ]
+[s S22 . 1 `uc 1 RC0 1 0 :1:0 
+`uc 1 RC1 1 0 :1:1 
+`uc 1 RC2 1 0 :1:2 
+`uc 1 RC3 1 0 :1:3 
+`uc 1 RC4 1 0 :1:4 
+`uc 1 RC5 1 0 :1:5 
+`uc 1 RC6 1 0 :1:6 
+`uc 1 RC7 1 0 :1:7 
+]
+"295
+[u S31 . 1 `S22 1 . 1 0 ]
+[v _PORTCbits PORTCbits `VES31  1 e 1 @7 ]
+[s S44 . 1 `uc 1 RBIF 1 0 :1:0 
+`uc 1 INTF 1 0 :1:1 
+`uc 1 TMR0IF 1 0 :1:2 
+`uc 1 RBIE 1 0 :1:3 
+`uc 1 INTE 1 0 :1:4 
+`uc 1 TMR0IE 1 0 :1:5 
+`uc 1 PEIE 1 0 :1:6 
+`uc 1 GIE 1 0 :1:7 
+]
+"477
+[s S53 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 T0IF 1 0 :1:2 
+`uc 1 . 1 0 :2:3 
+`uc 1 T0IE 1 0 :1:5 
+]
+[u S58 . 1 `S44 1 . 1 0 `S53 1 . 1 0 ]
+[v _INTCONbits INTCONbits `VES58  1 e 1 @11 ]
+[s S76 . 1 `uc 1 PS 1 0 :3:0 
+`uc 1 PSA 1 0 :1:3 
+`uc 1 T0SE 1 0 :1:4 
+`uc 1 T0CS 1 0 :1:5 
+`uc 1 INTEDG 1 0 :1:6 
+`uc 1 nRBPU 1 0 :1:7 
+]
+"1275
+[s S83 . 1 `uc 1 PS0 1 0 :1:0 
+`uc 1 PS1 1 0 :1:1 
+`uc 1 PS2 1 0 :1:2 
+]
+[u S87 . 1 `S76 1 . 1 0 `S83 1 . 1 0 ]
+[v _OPTION_REGbits OPTION_REGbits `VES87  1 e 1 @129 ]
+"1375
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"1437
+[v _TRISC TRISC `VEuc  1 e 1 @135 ]
+"2605
+[v _INTF INTF `VEb  1 e 0 @89 ]
+"52 D:\OneDrive - UFSC\Academico\UFSC\Aulas\6 - MpMc\Exercicio Cancela\software\Cancela.X\main.c
+[v _SA_press SA_press `i  1 e 2 0 ]
+"53
+[v _trem_passando trem_passando `i  1 e 2 0 ]
+"67
+[v _main main `(v  1 e 1 0 ]
+{
+"91
+[v main@i i `i  1 a 2 11 ]
+"113
+} 0
+"45
+[v _stopMotor stopMotor `(v  1 e 1 0 ]
+{
+"51
+} 0
+"35
+[v _rotateMotor rotateMotor `(v  1 e 1 0 ]
+{
+[v rotateMotor@direction direction `uc  1 a 1 wreg ]
+"37
+[v rotateMotor@fechando fechando `i  1 a 2 6 ]
+"36
+[v rotateMotor@abrindo abrindo `i  1 a 2 4 ]
+"35
+[v rotateMotor@direction direction `uc  1 a 1 wreg ]
+[v rotateMotor@direction direction `uc  1 a 1 8 ]
+"44
+} 0
+"54
+[v _tremInterruption tremInterruption `II(v  1 e 1 0 ]
+{
+"66
+} 0
+"45
+[v i1_stopMotor stopMotor `(v  1 e 1 0 ]
+{
+"51
+} 0
+"35
+[v i1_rotateMotor rotateMotor `(v  1 e 1 0 ]
+{
+[v i1rotateMotor@direction direction `uc  1 a 1 wreg ]
+"37
+[v i1rotateMotor@fechando fechando `i  1 a 2 6 ]
+"36
+[v i1rotateMotor@abrindo abrindo `i  1 a 2 4 ]
+"35
+[v i1rotateMotor@direction direction `uc  1 a 1 wreg ]
+[v i1rotateMotor@direction direction `uc  1 a 1 8 ]
+"44
+} 0

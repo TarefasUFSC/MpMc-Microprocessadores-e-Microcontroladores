@@ -1,0 +1,30 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\changetocdepth {4}
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\defcounter {refsection}{0}\relax 
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\defcounter {refsection}{0}\relax 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdução}}{2}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Pesquisa}}{3}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}AMD Ryzen 9 5900X}{3}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Intel i9-11900K}{3}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Smart Cache}{3}{subsection.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Conclusão}}{5}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\vspace {\cftbeforechapterskip }
+\defcounter {refsection}{0}\relax 
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{REFERÊNCIAS}{6}{section*.4}%

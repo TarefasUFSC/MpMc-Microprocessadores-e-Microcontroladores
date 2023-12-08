@@ -1,0 +1,12 @@
+Warning[205] D:\ONEDRIVE - UFSC\ACADEMICO\UFSC\AULAS\6 - MPMC\EXERCICIO BOT„O\SOFTWARE\BOTAO-PISCA.X\MAIN.ASM 19 : Found directive in column 1. (__CONFIG)
+Warning[205] D:\ONEDRIVE - UFSC\ACADEMICO\UFSC\AULAS\6 - MPMC\EXERCICIO BOT„O\SOFTWARE\BOTAO-PISCA.X\MAIN.ASM 23 : Found directive in column 1. (cblock)
+Warning[205] D:\ONEDRIVE - UFSC\ACADEMICO\UFSC\AULAS\6 - MPMC\EXERCICIO BOT„O\SOFTWARE\BOTAO-PISCA.X\MAIN.ASM 26 : Found directive in column 1. (ENDC)
+Warning[205] D:\ONEDRIVE - UFSC\ACADEMICO\UFSC\AULAS\6 - MPMC\EXERCICIO BOT„O\SOFTWARE\BOTAO-PISCA.X\MAIN.ASM 31 : Found directive in column 1. (org)
+Warning[203] D:\ONEDRIVE - UFSC\ACADEMICO\UFSC\AULAS\6 - MPMC\EXERCICIO BOT„O\SOFTWARE\BOTAO-PISCA.X\MAIN.ASM 32 : Found opcode in column 1. (goto)
+Message[302] D:\ONEDRIVE - UFSC\ACADEMICO\UFSC\AULAS\6 - MPMC\EXERCICIO BOT„O\SOFTWARE\BOTAO-PISCA.X\MAIN.ASM 42 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ONEDRIVE - UFSC\ACADEMICO\UFSC\AULAS\6 - MPMC\EXERCICIO BOT„O\SOFTWARE\BOTAO-PISCA.X\MAIN.ASM 46 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ONEDRIVE - UFSC\ACADEMICO\UFSC\AULAS\6 - MPMC\EXERCICIO BOT„O\SOFTWARE\BOTAO-PISCA.X\MAIN.ASM 50 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\ONEDRIVE - UFSC\ACADEMICO\UFSC\AULAS\6 - MPMC\EXERCICIO BOT„O\SOFTWARE\BOTAO-PISCA.X\MAIN.ASM 53 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[202] D:\ONEDRIVE - UFSC\ACADEMICO\UFSC\AULAS\6 - MPMC\EXERCICIO BOT„O\SOFTWARE\BOTAO-PISCA.X\MAIN.ASM 62 : Argument out of range.  Least significant bits used.
+Warning[202] D:\ONEDRIVE - UFSC\ACADEMICO\UFSC\AULAS\6 - MPMC\EXERCICIO BOT„O\SOFTWARE\BOTAO-PISCA.X\MAIN.ASM 69 : Argument out of range.  Least significant bits used.
+Warning[202] D:\ONEDRIVE - UFSC\ACADEMICO\UFSC\AULAS\6 - MPMC\EXERCICIO BOT„O\SOFTWARE\BOTAO-PISCA.X\MAIN.ASM 72 : Argument out of range.  Least significant bits used.

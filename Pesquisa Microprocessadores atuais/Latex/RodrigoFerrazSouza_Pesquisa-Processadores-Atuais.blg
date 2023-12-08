@@ -1,0 +1,15 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'RodrigoFerrazSouza_Pesquisa-Processadores-Atuais.blg'
+[166] biber-MSWIN64:340> INFO - === 
+[226] Biber.pm:415> INFO - Reading 'RodrigoFerrazSouza_Pesquisa-Processadores-Atuais.bcf'
+[423] Biber.pm:952> INFO - Found 7 citekeys in bib section 0
+[443] Biber.pm:4340> INFO - Processing section 0
+[460] Biber.pm:4531> INFO - Looking for bibtex format file 'aftertext/references.bib' for section 0
+[553] bibtex.pm:1689> INFO - LaTeX decoding ...
+[573] bibtex.pm:1494> INFO - Found BibTeX data source 'aftertext/references.bib'
+[656] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[657] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[657] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
+[657] Biber.pm:4174> INFO - No sort tailoring available for locale 'pt-BR'
+[674] bbl.pm:654> INFO - Writing 'RodrigoFerrazSouza_Pesquisa-Processadores-Atuais.bbl' with encoding 'UTF-8'
+[677] bbl.pm:757> INFO - Output to RodrigoFerrazSouza_Pesquisa-Processadores-Atuais.bbl

@@ -1,0 +1,3 @@
+https://youtu.be/aaSQo5cmHsI
+
+OBS: No vídeo a placa esta desatualiaza, pois eu notei que esqueci a entrada de 5V  e esqueci de alterar o tamanho das trilhas do aquecedor para suportar a corrente

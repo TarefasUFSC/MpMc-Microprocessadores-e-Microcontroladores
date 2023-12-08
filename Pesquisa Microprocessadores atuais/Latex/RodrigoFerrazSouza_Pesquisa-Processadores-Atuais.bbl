@@ -1,0 +1,179 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{tomsAMD}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9adcabb51117dff47fecd99b32a13ea1}{%
+           family={Alcorn},
+           familyi={A\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9adcabb51117dff47fecd99b32a13ea1}
+      \strng{fullhash}{9adcabb51117dff47fecd99b32a13ea1}
+      \strng{bibnamehash}{9adcabb51117dff47fecd99b32a13ea1}
+      \strng{authorbibnamehash}{9adcabb51117dff47fecd99b32a13ea1}
+      \strng{authornamehash}{9adcabb51117dff47fecd99b32a13ea1}
+      \strng{authorfullhash}{9adcabb51117dff47fecd99b32a13ea1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{AMD Ryzen 9 5950X and 5900X Review: Zen 3 Breaks the 5 GHz Barrier}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review
+      \endverb
+      \verb{url}
+      \verb https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review
+      \endverb
+    \endentry
+    \entry{siteAMD}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48af4341f745163f945fa838eeabb062}{%
+           family={AMD},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{48af4341f745163f945fa838eeabb062}
+      \strng{fullhash}{48af4341f745163f945fa838eeabb062}
+      \strng{bibnamehash}{48af4341f745163f945fa838eeabb062}
+      \strng{authorbibnamehash}{48af4341f745163f945fa838eeabb062}
+      \strng{authornamehash}{48af4341f745163f945fa838eeabb062}
+      \strng{authorfullhash}{48af4341f745163f945fa838eeabb062}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Processadores para desktop AMD Ryzen™ 9 5900X}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.amd.com/pt/products/cpu/amd-ryzen-9-5900x
+      \endverb
+      \verb{url}
+      \verb https://www.amd.com/pt/products/cpu/amd-ryzen-9-5900x
+      \endverb
+    \endentry
+    \entry{AdrenaAMD}{misc}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{AMD Ryzen 9 5900X}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://adrenaline.com.br/produtos/fichatecnica/66309/amd-ryzen-9-5900x
+      \endverb
+      \verb{url}
+      \verb https://adrenaline.com.br/produtos/fichatecnica/66309/amd-ryzen-9-5900x
+      \endverb
+    \endentry
+    \entry{TechAMD}{misc}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{AMD Ryzen 9 5900X: especificações técnicas e testes}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://technical.city/pt/cpu/Ryzen-9-5900X
+      \endverb
+      \verb{url}
+      \verb https://technical.city/pt/cpu/Ryzen-9-5900X
+      \endverb
+    \endentry
+    \entry{wiki}{misc}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Cache do processador}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://pt.wikipedia.org/wiki/Cache_do_processador
+      \endverb
+      \verb{url}
+      \verb https://pt.wikipedia.org/wiki/Cache_do_processador
+      \endverb
+    \endentry
+    \entry{RISCCISC}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d209a2c9c0bdd6eb575454e8f70741af}{%
+           family={Gillman},
+           familyi={G\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d209a2c9c0bdd6eb575454e8f70741af}
+      \strng{fullhash}{d209a2c9c0bdd6eb575454e8f70741af}
+      \strng{bibnamehash}{d209a2c9c0bdd6eb575454e8f70741af}
+      \strng{authorbibnamehash}{d209a2c9c0bdd6eb575454e8f70741af}
+      \strng{authornamehash}{d209a2c9c0bdd6eb575454e8f70741af}
+      \strng{authorfullhash}{d209a2c9c0bdd6eb575454e8f70741af}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Is Ryzen RISC or CISC?}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.compsuccess.com/is-ryzen-risc-or-cisc/
+      \endverb
+      \verb{url}
+      \verb https://www.compsuccess.com/is-ryzen-risc-or-cisc/
+      \endverb
+    \endentry
+    \entry{intel}{misc}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Intel® Core™ i9-11900K Processor}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://ark.intel.com/content/www/us/en/ark/products/212325/intel-core-i911900k-processor-16m-cache-up-to-5-30-ghz.html
+      \endverb
+      \verb{url}
+      \verb https://ark.intel.com/content/www/us/en/ark/products/212325/intel-core-i911900k-processor-16m-cache-up-to-5-30-ghz.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
